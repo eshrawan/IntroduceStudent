@@ -7,6 +7,7 @@ a user to enter in their phone number to sign up for further updates. Ways to im
 
 ### App Walk-though
 
+Please wait upto a few seconds for gif to load! file is also in the directory.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72812631/214376013-1a71416e-604e-44db-b35f-f5d5393bd842.gif)
 
