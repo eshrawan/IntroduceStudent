@@ -7,7 +7,8 @@ a user to enter in their phone number to sign up for further updates. Ways to im
 
 ### App Walk-though
 
-[[https://github.com/eshitashrawan/IntroduceStudent/blob/62c60db7e7741d914f6095f3205be73d4fdcad71/ezgif-4-a2fc0ebe86.gif]]
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72812631/214376013-1a71416e-604e-44db-b35f-f5d5393bd842.gif)
 
 
 
