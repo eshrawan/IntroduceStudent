@@ -7,7 +7,9 @@ a user to enter in their phone number to sign up for further updates. Ways to im
 
 ### App Walk-though
 
-<br><img src="ezgif-4-a2fc0ebe86.gif" width=200><br>
+[[https://github.com/eshrawan/IntroduceStudent/blob/master/ezgif-4-a2fc0ebe86.gif|alt=app walkthrough]]
+
+
 
 ### Required Features
 
